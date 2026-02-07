@@ -22,7 +22,7 @@ Junior AI Engineer passionate about building real-world AI solutions using **Mac
 - 🎯 Strong foundation in ML, DL, and Data Preprocessing using **TensorFlow** & **PyTorch**
 - 🎓 AI & ML Diploma graduate from **Route**
 - 📚 Currently pursuing **AI Data Science Diploma at DEPI**
-- 🏫 Third-year Artificial Intelligence student at **Minia University**
+- 🏫 Third-year Artificial Intelligence student at **Minia National University**
 - 💡 Interested in computer vision, NLP, and applied AI systems
 - 📫 Reach me at: **abdelrhmansamy255@gmail.com**
 
