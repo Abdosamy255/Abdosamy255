@@ -1,6 +1,8 @@
-<h1 align="center">Hi there, I'm Abdelrhman samy 👋</h1>
+<h1 align="center">Hi there, I'm Abdelrhman Samy 👋</h1>
 
-<h3 align="center">AI Engineer | Machine Learning Specialist | Deep Learning Enthusiast</h3>
+<h3 align="center">
+AI Engineer | Machine Learning Specialist | Deep Learning Enthusiast
+</h3>
 
 <div align="center">
 
@@ -13,52 +15,43 @@
 
 ---
 
+## 🚀 About Me
+
+Junior AI Engineer passionate about building real-world AI solutions using **Machine Learning**, **Deep Learning**, and **Data Science**.
+
+- 🎯 Strong foundation in ML, DL, and Data Preprocessing using **TensorFlow** & **PyTorch**
+- 🎓 AI & ML Diploma graduate from **Route**
+- 📚 Currently pursuing **AI Data Science Diploma at DEPI**
+- 🏫 Third-year Artificial Intelligence student at **Minia University**
+- 💡 Interested in computer vision, NLP, and applied AI systems
+- 📫 Reach me at: **abdelrhmansamy255@gmail.com**
+
+---
+
+## 🛠️ Machine Learning & Data Stack
+
 <div align="left">
 
-## 👋 About Me
-
-<div align="left">
-  
-  Junior AI Engineer with expertise in Machine Learning (ML), Deep Learning (DL), and Data Preprocessing. Completed an AI and ML diploma from Route and currently pursuing an AI Data Science diploma at DEPI. Actively working on projects while studying in the third year of Artificial Intelligence at Minia University. Passionate about advancing AI technologies and applying them to real-world problems.
-  
-- 🎯 Junior AI Engineer with a strong foundation in Machine Learning (ML), Deep Learning (DL), and Data Preprocessing, leveraging expertise in TensorFlow and PyTorch.
-- 💼 Currently pursuing an AI Data Science diploma at DEPI, following the completion of an AI and ML diploma from Route.
-- 🚀 Actively contributing to AI projects while studying in the third year of Artificial Intelligence at Minia University, with a focus on applying AI technologies to real-world challenges.
-  - 📫 Reach me at: abdelrhmansamy255@gmail.com
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42" title="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42" title="PyTorch"/>
 
 </div>
 
 ---
 
-
-## 🛠️ Tech Stack
+## 💻 Programming Languages & Tools
 
 <div align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       height="40" alt="python logo" title="Python"/>
 
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-       height="40" alt="numpy logo" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" title="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" title="Linux"/>
 
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-       height="40" alt="pandas logo" title="Pandas"/>
-
-  <!-- C# -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-       height="40" alt="csharp logo" title="C#"/>
-
-  <!-- Tensorflow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-       height="40" alt="tensorflow logo" title="TensorFlow"/>
-
-  <!-- Pytorch -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
-       height="40" alt="pytorch logo" title="PyTorch"/>
 </div>
-
 
 ---
 
@@ -67,3 +60,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Abdosamy255/Abdosamy255/output/snake-dark.svg" alt="Snake animation" />
 </div>
+
+---
+
+<h3 align="center">⚡ Always learning. Always building. Always improving.</h3>
