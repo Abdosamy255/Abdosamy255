@@ -84,10 +84,14 @@ I am a passionate **AI Engineer** and a 3rd-year student at **Minia National Uni
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdosamy255&show_icons=true&theme=radical&hide_border=true&v=new" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdosamy255&layout=compact&theme=radical&hide_border=true&v=new" height="180" alt="languages graph" />
-</div>
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdosamy255&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdosamy255&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+</div>
 <br>
 
 <div align="center">
